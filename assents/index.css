@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.car{
+
+    position: relative;
+    width: 25rem;
+    top: 60.5px;
+    left: 30rem;
+    border-radius: 5px;    
+}
+.about{
+   background-color: rgb(226, 221, 221); 
+   position: relative; 
+   width: 25rem;
+   top: 3.6rem;
+   left: 30rem;
+}
+.textcountry{
+    font-size: 25px;
+  
+}
+.country{
+    position: relative;
+    top:3.56rem;
+    left: 29.9rem;
+    width: 26.3%;
+    border: 80px;
+    border-color: rgb(160, 144, 144);
+}
+.textprice{
+    font-size: 25px;
+}
+.price{
+    position: relative;
+    top:3.3rem;
+    left: 29.9rem;
+    width: 26.3%;
+    border: 80px;
+    border-color: rgb(160, 144, 144);
+}
+.textcategory{
+    font-size: 25px;
+}
+.category{
+    position: relative;
+    top:3.1rem;
+    left: 29.9rem;
+    width: 26.3%;
+    border: 80px;
+    border-color: rgb(160, 144, 144);
+}
+.link{
+    font-size: 25px;
+    color: rgb(102, 166, 218);
+
+}
+.link{
+    text-align: center;
+    position: relative;
+    top:2.9rem;
+    left: 29.9rem;
+    width: 26.3%;
+    border: 80px;
+    border-color: rgb(160, 144, 144);
+    }
+    .line{
+        text-decoration-line: none;
+    }
